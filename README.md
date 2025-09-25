@@ -24,3 +24,13 @@ As part of this portfolio, I included **NexaSphere**, a mini-brand project to de
 ---
 
 ## 📂 Project Structure
+
+```text
+portfolio-website/
+│── index.html        # Main landing page with hero section, navigation, and About section
+│── style.css         # Styling for the website (layout, colors, fonts, hover effects)
+│── script.js         # JavaScript for interactivity (scroll effects, navbar animations)
+│── assets/           # Images, logos, icons, and other media
+│   ├── logo.png      # NexaSphere mini-brand logo
+│   └── project-screenshots/  # Screenshots for projects or portfolio items
+│── README.md         # Documentation and project details
