@@ -1,5 +1,5 @@
 # SCT_WD_1
-Personal portfolio website of Supriya Kumari, featuring a mini brand project NexaSphere with interactive navigation and modern design.
+Personal portfolio website of Supriya, featuring a mini brand project NexaSphere with interactive navigation and modern design.
 
 # Supriya Kumari Portfolio 🌐
 
