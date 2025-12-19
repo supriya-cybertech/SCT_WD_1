@@ -1,7 +1,7 @@
 # SCT_WD_1
 Personal portfolio website of Supriya, featuring a mini brand project NexaSphere with interactive navigation and modern design.
 
-# Supriya Kumari Portfolio 🌐
+# Supriya Portfolio 🌐
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and professional identity in Emerging Technologies, including AI, IoT, Robotics, and Cybersecurity.  
 
